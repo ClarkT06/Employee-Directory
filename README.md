@@ -21,6 +21,7 @@ Searched:
 ![](screen2.png)
 
 ## Deployed Site
+https://employee-directory-clark.herokuapp.com/
 
 Happy Searching!
 
